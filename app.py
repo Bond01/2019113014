@@ -239,7 +239,7 @@ while f == 0:
                 x5[t] = 0
             blit(mvng4, x5[t], y1[4])
             t = t + 1
-        pygame.display.update()
+       # pygame.display.update()
         var = -1
 
         t = 0
@@ -391,7 +391,7 @@ while f == 0:
                         x5[t] = 0
                     blit(mvng4, x5[t], y1[4])
                     t = t + 1
-                pygame.display.update()
+               # pygame.display.update()
 
                 t = 0
                 for t in range(0, t + 30):
